@@ -1,0 +1,22 @@
+section{
+    width: 250px;
+    height: 250px;
+    margin: 100px auto;
+    border: 3px dotted;
+    border-color: rgb(0, 255, 150);
+}
+p{
+    width: 100%;
+    padding: 20px;
+    margin: auto;
+    border: 5px solid;
+    box-sizing: border-box;
+    border-color: blue;
+    text-align: center;
+}
+
+h1{
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}

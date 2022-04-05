@@ -1,0 +1,22 @@
+bode{
+    display: flex;
+}
+section.gallery{
+    margin: auto;
+   
+    
+}
+img{
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    border: 0.4rem solid #000; 
+    
+}
+section.gallery ul{
+    display: flex;
+    vertical-align: middle;
+   
+}
+section.gallery ul li{
+    display: flex;
+}

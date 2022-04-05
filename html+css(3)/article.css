@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(245, 243, 239, 0.863);
+    color: rgb(50,50,50);
+}
+article{
+    background-color: rgb(237,237,237);
+    padding: 20px 80px 2px;
+    width: 800px;
+    margin: 40px auto 20px;
+    font-size: 9px;
+    font-family: Verdana, sans-serif;
+}
+section{
+    margin: auto;
+    padding: 0px 103px 5px;
+    
+    
+}
+header{
+    font-size: 14px;
+}
+img{
+    margin: auto;
+    width: 380px;
+}

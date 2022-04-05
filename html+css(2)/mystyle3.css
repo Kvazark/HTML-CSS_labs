@@ -1,0 +1,33 @@
+table{
+    width: 80%;
+	margin: 7% auto;
+    font: 16px/1.5 Verdana, sans-serif;
+    border: 1px solid rgb(222,222,222);
+    border-collapse:collapse;
+    
+}
+
+table th {
+    width: 26.7%; 
+    padding: 5px;
+}
+table td{
+    border: 1px solid rgb(222,222,222);
+    padding: 5px;
+}
+table tr:nth-child(1){
+    text-align: left;
+    background: #afadad; 
+}
+table tbody tr:nth-child(2n) {background: rgb(240,240,240);}
+
+table tr:hover{
+    color: rgb(255,255,255); background: rgb(0,0,0);
+}
+table tr:nth-child(2n):hover{
+    color: rgb(255,255,255); background: rgb(0,0,0);
+}
+
+table tr:nth-child(1):hover{
+    color: rgb(255,255,255); background: rgb(0,0,0);
+}

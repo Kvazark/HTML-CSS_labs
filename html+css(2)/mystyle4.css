@@ -1,0 +1,15 @@
+article{
+    background-color: rgba(52, 100, 156);
+    margin: 100px 100px;
+    color: rgb(240,240,240);
+    border-radius: 1rem;
+    padding: 20px;
+}
+h1{
+    font-family: Georgia, serif;
+    font-weight:400;
+    font-size: 32px;
+}
+p{
+    font: 16px/1.5 Helvetica, sans-serif ;
+}

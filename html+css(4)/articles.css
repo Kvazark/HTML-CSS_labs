@@ -1,0 +1,23 @@
+section{
+    display: flex;
+    justify-content: space-between;
+    max-width: 70vw;
+    margin: 100px auto;
+}
+article{
+    margin: 0px 5px;
+    padding: 0px 25px;
+    
+}
+h2{
+    font: 1em/1.2 Georgia, serif;
+}
+
+p{
+    font: 16px/1.5 Helvetica, sans-serif;
+    padding-right: 40px;
+        
+}
+html{
+    font-size: 40px;
+}
