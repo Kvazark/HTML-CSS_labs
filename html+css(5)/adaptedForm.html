@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Введение Media Queries</title>
         <link rel="stylesheet" type="text/css" href="adaptedForm.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body>
         <form>
@@ -13,12 +14,12 @@
             </div>
             <fieldset>
                 <p class ="form-input"> 
-                    <label for="username">Username</label>                       
-                    <input type="text"  placeholder="&#xf007;" id="username" name="username">     
+                    <label for="username">Username</label>                      
+                    <input type="text" class="form-control emptyLogin" placeholder="&#xf007;"  id="username" name="username">     
                 </p>
                 <p class ="form-input">
-                    <label for = "password">Password</label>               
-                    <input type="password"  placeholder="&#xf084;" id="password"> 
+                    <label for = "password">Password</label>            
+                    <input type="password" class="form-control empty"  placeholder="&#xf084;" id="password"> 
                 </p>
                 <button class="button" onclick="alert('clicked')" type="submit">Login</button> 
             </fieldset>
